@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\basicCsharp-main\basicCsharp-main\CGO_Buoi12_TicTacToe\CGO_Buoi12_TicTacToe\bin\Debug\CGO_Buoi12_TicTacToe.exe.config
+C:\Users\Admin\Downloads\basicCsharp-main\basicCsharp-main\CGO_Buoi12_TicTacToe\CGO_Buoi12_TicTacToe\bin\Debug\CGO_Buoi12_TicTacToe.exe
+C:\Users\Admin\Downloads\basicCsharp-main\basicCsharp-main\CGO_Buoi12_TicTacToe\CGO_Buoi12_TicTacToe\bin\Debug\CGO_Buoi12_TicTacToe.pdb
+C:\Users\Admin\Downloads\basicCsharp-main\basicCsharp-main\CGO_Buoi12_TicTacToe\CGO_Buoi12_TicTacToe\obj\Debug\CGO_Buoi12_TicTacToe.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\basicCsharp-main\basicCsharp-main\CGO_Buoi12_TicTacToe\CGO_Buoi12_TicTacToe\obj\Debug\CGO_Buoi12_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\basicCsharp-main\basicCsharp-main\CGO_Buoi12_TicTacToe\CGO_Buoi12_TicTacToe\obj\Debug\CGO_Buoi12_TicTacToe.exe
+C:\Users\Admin\Downloads\basicCsharp-main\basicCsharp-main\CGO_Buoi12_TicTacToe\CGO_Buoi12_TicTacToe\obj\Debug\CGO_Buoi12_TicTacToe.pdb
+C:\Users\Admin\Downloads\CGO_Buoi12_TicTacToe\CGO_Buoi12_TicTacToe\bin\Debug\CGO_Buoi12_TicTacToe.exe.config
+C:\Users\Admin\Downloads\CGO_Buoi12_TicTacToe\CGO_Buoi12_TicTacToe\bin\Debug\CGO_Buoi12_TicTacToe.exe
+C:\Users\Admin\Downloads\CGO_Buoi12_TicTacToe\CGO_Buoi12_TicTacToe\bin\Debug\CGO_Buoi12_TicTacToe.pdb
+C:\Users\Admin\Downloads\CGO_Buoi12_TicTacToe\CGO_Buoi12_TicTacToe\obj\Debug\CGO_Buoi12_TicTacToe.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\CGO_Buoi12_TicTacToe\CGO_Buoi12_TicTacToe\obj\Debug\CGO_Buoi12_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\CGO_Buoi12_TicTacToe\CGO_Buoi12_TicTacToe\obj\Debug\CGO_Buoi12_TicTacToe.exe
+C:\Users\Admin\Downloads\CGO_Buoi12_TicTacToe\CGO_Buoi12_TicTacToe\obj\Debug\CGO_Buoi12_TicTacToe.pdb
